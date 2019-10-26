@@ -20,6 +20,9 @@ Em seguida roda o comando:
 [Primeiros Passos](PRIMEIROS_PASSOS/PRIMEIROS_PASSOS.md)
 
 
+[Sistemas de Coordenadas](SISTEMAS_DE_COORDERNADAS/SISTEMAS_DE_COORDERNADAS.md)
+
+[Desenho e Fatiamento sobre imagem](DESENHO_FATIAMENTO_IMAGEM/DESENHO_FATIAMENTO_IMAGEM.md)
 
 ***
  Author **Marcelo Silva**

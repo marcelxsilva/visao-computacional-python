@@ -60,7 +60,7 @@ No exemplo, se voce executar o script novamente porem dessa forma:
     print(imagem)
 ```
 
-Na imagem abaixo esta um exemplo das duas matrizes e suas dimensões em uma de uma imagem preto e branco:
+Na imagem abaixo esta um exemplo das duas matrizes e suas dimensões em uma  imagem preto e branco:
 
 <img src='../images/matriz-exemplo-preto-branco-1.png' width='136'>
 <img src='../images/matriz-exemplo-preto-branco-2.png' width='150'>
