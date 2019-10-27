@@ -19,10 +19,20 @@ Em seguida roda o comando:
 ***
 [Primeiros Passos](PRIMEIROS_PASSOS/PRIMEIROS_PASSOS.md)
 
-
 [Sistemas de Coordenadas](SISTEMAS_DE_COORDERNADAS/SISTEMAS_DE_COORDERNADAS.md)
 
 [Desenho e Fatiamento sobre imagem](DESENHO_FATIAMENTO_IMAGEM/DESENHO_FATIAMENTO_IMAGEM.md)
+
+[Transformações e Máscaras](TRANSFORMACOES_E_MASCARAS/TRANSFORMACOES_E_MASCARAS.md)
+
+[Sistemas de Cores](SISTEMAS_DE_CORES/SISTEMAS_DE_CORES.md)
+
+[Suavização de imagens](SUAVIZACAO_DE_IMAGENS/SUAVIZACAO_DE_IMAGENS.md)
+
+[Binarização com limiar](BINARIZACAO/BINARIZACAO.md)
+
+
+
 
 ***
  Author **Marcelo Silva**
